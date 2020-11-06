@@ -12,7 +12,7 @@
 * **🎲 gamer**
 
 
-<script src="https://tryhackme.com/badge/68808"></script>
+<script src="https://tryhackme.com/badge/68808">
 
 
 
