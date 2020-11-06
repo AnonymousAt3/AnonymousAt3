@@ -12,7 +12,7 @@
 * **🎲 gamer**
 
 
-<script src="https://tryhackme.com/badge/68808"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cyberghos00.png" alt="TryHackMe">
 
 
 
