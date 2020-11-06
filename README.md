@@ -1,5 +1,9 @@
 <hr>
 
+<script src="https://tryhackme.com/badge/68808"></script>
+
+
+
 
 <h1 align="center">🧑‍💻 ABOUT ME</h1>
 
@@ -12,7 +16,6 @@
 * **🎲 gamer**
 
 
-< h2 s<script src="https://tryhackme.com/badge/68808"></script> </h2>
 
 
 
