@@ -1,6 +1,6 @@
 <hr>
 
-<script src="https://tryhackme.com/badge/68808"></script>
+
 
 
 
