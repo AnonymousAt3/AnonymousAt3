@@ -37,6 +37,5 @@ Y8b  d8    88    88   8D 88.     88 `88. 88. ~8~ 88   88 `8b  d8' db   8D    88
 ```
 
 
-<p align="center">
-<a href="https://github.com/AnonymousAt3/cyberdoor"><img title="cyberdoor" src="https://github-readme-stats.vercel.app/api/pin/?username=AnonymousAt3&repo=cyberdoor&theme=dark"></a>
+
 
