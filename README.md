@@ -13,7 +13,8 @@
 * **📕 youtube content creator**
 * **👨‍💻 Pentesting tools development**
 * **☣️ CTF player**
-* **🎲 gamer**
+* **🖥  Windows Server 2019**
+* **🧑‍💻  Network Security**
 
 
 
