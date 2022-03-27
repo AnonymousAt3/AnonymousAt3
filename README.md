@@ -10,11 +10,11 @@
 * **🎩 Cyber Security**
 * **🕵️ Pentester**
 * **🌐 Netwoking(CCNA & CCNP)**
-* **📕 youtube content creator**
+* **🖥  Windows Server 2019**
+* **🧑‍💻 Network Security**
 * **👨‍💻 Pentesting tools development**
 * **☣️ CTF player**
-* **🖥  Windows Server 2019**
-* **🧑‍💻  Network Security**
+* **📕 youtube content creator**
 
 
 
